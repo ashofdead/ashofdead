@@ -15,7 +15,7 @@ I'm a passionate Fullstack Developer with expertise in a variety of technologies
 - **MongoDB** | **SQL** | **Redis**
 
 ### Other Skills
-- **API Integration** | **Headless CMS** | **Figma** | **Web Scraping**
+- **API Integration** | **Headless CMS** | **Web Scraping** | **Figma**
 
 ## 🌱 Currently Learning
 
