@@ -6,7 +6,7 @@ I'm a passionate Fullstack Developer with expertise in a variety of technologies
 
 ### Frontend
 - **HTML5** | **CSS3** | **Sass** | **PostCSS** | **Tailwind CSS** | **Bootstrap**
-- **JavaScript** | **React** | **Next.js** | **TypeScript** | **React Native**
+- **JavaScript** | **React.js** | **Next.js** | **TypeScript** | **React Native**
 
 ### Backend
 - **Node.js** | **Express.js** | **Python** | **Flask** | **Django** | **GraphQL**
