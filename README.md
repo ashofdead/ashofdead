@@ -17,9 +17,9 @@ I'm a passionate Fullstack Developer with expertise in a variety of technologies
 ### Other Skills
 - **API Integration** | **Headless CMS** | **Web Scraping** | **Figma**
 
-## 🌱 Currently Learning
+## 🌱 Currently
 
-I'm currently diving deeper into:
+I'm diving deeper into:
 - **Cloud Services**: Exploring AWS to understand cloud infrastructure and serverless architectures.
 - **Mobile App Development**: Diving deeper into React Native for building cross-platform mobile applications.
 
@@ -36,4 +36,4 @@ Here are a few projects I've worked on:
 - [Twitter](https://github.com/ashofdead)
 - [Portfolio](https://github.com/ashofdead)
 
-Feel free to reach out if you want to collaborate or just chat about tech! 😊
+Feel free to reach out if you want to collaborate or just chat about tech!
