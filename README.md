@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm a passionate Fullstack Developer with expertise in a variety of technologies. I love building dynamic web applications and exploring new tech trends. 🌐
+A Fullstack Developer with expertise in a variety of technologies. I love building dynamic web applications and exploring new tech trends. 🌐
 
 ## 🛠️ Technologies & Tools
 
